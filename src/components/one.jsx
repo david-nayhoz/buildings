@@ -7,6 +7,7 @@ export default function One() {
         <div>dvid nehoz</div>
         <div className='bg-danger'>moshe daymond</div>
         <h1 >daniel tolmsov</h1>
+        <div className='bg-primary'> david the king of peta tikvha</div>
     </div>
   )
 }
